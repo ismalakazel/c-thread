@@ -1,6 +1,6 @@
 # Creating a thread in C
 
-*© Israel Pereira Ta*© Israel Pereira Tavares da Silva*vares da Silva*
+*© Israel Pereira Tavares da Silva*
 
 > POSIX Threads, usually referred to as pthreads, is an execution model that exists independently from a language, as well as a parallel execution model. It allows a program to control multiple different flows of work that overlap in time. 
 
